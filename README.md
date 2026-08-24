@@ -1,0 +1,1 @@
+Data cleaning and preliminary analysis of the built-in R airquality dataset. The project covers data inspection, missing-value handling, duplicate checking, outlier detection, normalization, categorical encoding, descriptive statistics, correlation analysis, visualization, and extraction of initial insights using R.
